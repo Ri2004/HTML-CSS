@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0;}
+html{background-color: darkcyan;}
+body{overflow-y: scroll;}
+body{overflow-x: scroll;}
+
+.body_rapper{width: 4.2%; height: 55px; background-color: floralwhite; border-radius: 50%; margin-top: 25px; margin-left: 237px; float: left;}
+
+.body_rapper_1{width: 55%; height: 55px; background-color: floralwhite; border-radius: 50px; margin-top: 25px; margin-left: 20px; float: left;}
+
+.body_rapper_2{width: 4.2%; height: 55px; background-color: floralwhite; border-radius: 50%; margin-top: 25px; margin-left: 237px; float: left;}
+
+.body_rapper_3{width: 55%; height: 55px; background-color: floralwhite; border-radius: 50px; margin-top: 25px; margin-left: 20px; float: left;}
+
+.body_rapper_4{width: 4.2%; height: 55px; background-color: floralwhite; border-radius: 50%; margin-top: 25px; margin-left: 237px; float: left;}
+
+.body_rapper_5{width: 55%; height: 55px; background-color: floralwhite; border-radius: 50px; margin-top: 25px; margin-left: 20px; float: left;}
